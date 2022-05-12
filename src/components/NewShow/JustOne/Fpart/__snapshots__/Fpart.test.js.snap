@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on Fpart Component Sould not render without the schema 1`] = `null`;
+
+exports[`Test on Fpart Component Sould render with no props and should have 1 image 1`] = `
+<div
+  className="col-4"
+>
+  <section
+    className="w-100"
+  >
+    <img
+      alt=""
+      className="reimg"
+      src="test-file-stub"
+    />
+  </section>
+</div>
+`;

@@ -1,0 +1,37 @@
+.sectionobrigatoria {
+  padding: 1rem;
+  margin: 1.5rem;
+
+  .seccard {
+    min-height: 420px;
+    position: relative;
+    cursor: pointer;
+    border-radius: 25px;
+
+    &.secforest {
+      background: linear-gradient(0deg, #0006, #0006), url("../../../statics/images/homecard1.jpeg") center center/cover no-repeat;
+    }
+
+    &.seckid {
+      background: linear-gradient(0deg, #0000004d, #0000004d), url("../../../statics/images/homecard2.jpeg") center center/cover no-repeat;
+    }
+
+    .textobaixo {
+      position: absolute;
+      bottom: 20px;
+
+      .stylespan {
+        background-color: #f3f3f3;
+        color: #000 !important;
+        cursor: pointer;
+        padding: 10px 4rem;
+        display: inline-block;
+        text-align: center;
+        outline: 0;
+        border-radius: 15px;
+        border-color: transparent;
+        text-decoration: none !important;
+      }
+    }
+  }
+}

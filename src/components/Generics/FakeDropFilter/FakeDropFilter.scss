@@ -1,0 +1,24 @@
+.classedrop {
+  border: 1px solid black;
+  border-radius: 22px;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.caixinha {
+  border: 1px solid black;
+  border-top: none;
+  border-radius: 0 0 22px 22px;
+  overflow: scroll;
+  max-height: 200px;
+
+  .item {
+    padding: 15px;
+    margin-bottom: 0;
+    cursor: pointer;
+
+    &:hover {
+      background-color: aquamarine;
+    }
+  }
+}

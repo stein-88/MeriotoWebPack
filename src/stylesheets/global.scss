@@ -1,0 +1,26 @@
+$globeblue: #00f;
+$globeblack: #000;
+$globewhite: #fff;
+$coramarela: #faec19;
+
+.bgblack {
+  background-color: $globeblack;
+}
+
+.bgazul {
+  background-color: $globeblue;
+}
+
+.bgfita {
+  background: #517b88;
+  color: $globewhite;
+  padding: 10px 15px;
+}
+
+.bggelo {
+  background: #f7f7f6;
+}
+
+.cursorPointer {
+  cursor: pointer;
+}

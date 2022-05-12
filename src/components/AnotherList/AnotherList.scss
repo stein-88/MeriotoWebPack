@@ -1,0 +1,12 @@
+@import "../../stylesheets/global.scss";
+
+.bgsomething {
+  background-color: gainsboro;
+  border: 2px solid black;
+  cursor: pointer;
+
+  &.bgselected {
+    background-color: gray;
+    color: white;
+  }
+}

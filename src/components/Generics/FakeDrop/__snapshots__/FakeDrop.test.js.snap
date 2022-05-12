@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on FakeDrop Component Should render with 2 props 1`] = `
+<section
+  className="w-100 text-center "
+>
+  <section
+    aria-hidden="true"
+    className="caixinha"
+    onClick={[Function]}
+  >
+    <p
+      className="mb-0"
+    >
+      Select one
+      <span
+        className="float-right"
+      >
+        V
+      </span>
+    </p>
+  </section>
+</section>
+`;

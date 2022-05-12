@@ -1,0 +1,93 @@
+const schemasnotherlist = [
+    {
+        id: '04b3aa0f-fbab-45ca-84fb-47e942a33b01',
+        pubDate: '2022-04-30T11:00:00+00:00',
+        url: null,
+        newsType: 'howto',
+        title: 'How to request an item.',
+        subtitle: null,
+        attributes: null,
+        image: null,
+        video: {
+            url: 'video/b49c0163-dfc1-421c-8a01-139a336cdbd0.mp4',
+        },
+    },
+    {
+        id: '548947d2-3eda-4cfa-aa14-51a6ed4b4623',
+        pubDate: '2022-04-18T17:19:14.155803+00:00',
+        url: 'firstOne',
+        newsType: 'feature',
+        title: 'Noice Feature edited',
+        subtitle: 'Check it out this new feature with sub edited',
+        attributes: null,
+        image: {
+            url: 'image/e908f02c-c842-4aa7-a5d6-c363da806dfb.png',
+        },
+        video: null,
+    },
+    {
+        id: 'c5986236-5c82-4736-a523-12a0f9565b43',
+        pubDate: '2022-04-18T17:18:41.818124+00:00',
+        url: 'https://developer.globechain.com/',
+        newsType: 'news',
+        title: 'Noice website',
+        subtitle: 'Nice things that we will going to see in this API eidted',
+        attributes: null,
+        image: {
+            url: 'image/ea97ff85-9805-44c1-8ecc-964a7125a619.png',
+        },
+        video: null,
+    },
+    {
+        id: '1d12f4f9-3609-44ff-834f-b2cc630fdd09',
+        pubDate: '2022-04-20T12:49:47.528002+00:00',
+        url: null,
+        newsType: 'news',
+        title: 'Globechain is worldwide.',
+        subtitle: 'asda',
+        attributes: null,
+        image: null,
+        video: null,
+    },
+    {
+        id: '6402c496-6e5d-486d-a2d6-6d4417c06c48',
+        pubDate: '2022-04-20T11:11:38.769865+00:00',
+        url: 'table',
+        newsType: 'feature',
+        title: 'Dashboard Filter',
+        subtitle: 'asda',
+        attributes: null,
+        image: {
+            url: 'image/17ca40d4-8d36-4dd4-b6b4-7f4b24c0a31a.png',
+        },
+        video: null,
+    },
+    {
+        id: '881fb0b8-7295-4759-bc7f-25cb77a92ceb',
+        pubDate: '2022-04-19T15:49:30.859416+00:00',
+        url: 'logistic',
+        newsType: 'feature',
+        title: 'Noice logistic',
+        subtitle: 'New feature',
+        attributes: null,
+        image: {
+            url: 'image/49c1931b-46c2-49ba-aaf7-3a89dfc7ad9d.png',
+        },
+        video: null,
+    },
+    {
+        id: '9da715cf-2d72-4979-99c1-d2b9dfe7d85e',
+        pubDate: '2022-05-01T11:00:00+00:00',
+        url: null,
+        newsType: 'howto',
+        title: 'Video How to do something',
+        subtitle: null,
+        attributes: '[{"id": "18ba7b6-6fd1-0547-52eb-47f8bf7ee1ea", "title": "Look how cool", "subtitle": "Noice ", "timestamp": 1650302383942}, {"id": "3fee1ce-ecab-b820-c4c4-e475ae56828", "title": "Very noice title editing", "imgUrl": "image/4b0d0b7f-d1bb-40b4-9d49-18bdda2f0aa9.png", "subtitle": "Withsub and image", "timestamp": 1650302400154}, {"id": "b11a48e-4d7a-dc1f-2b34-40c4ccffe6a", "subtitle": "Just sub now", "timestamp": 1650302406293}, {"id": "7ebcc18-c6ca-7cd6-14a4-b1dad105abd", "subtitle": "Followed from another sub.", "timestamp": 1650302412506}]',
+        image: null,
+        video: {
+            url: 'video/53cf5355-162d-4dc2-a613-37331fb2e8b9.mp4',
+        },
+    },
+]
+
+export default schemasnotherlist

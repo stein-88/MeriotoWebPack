@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on FinalPart Component Sould render with no props 1`] = `
+<div
+  className="col-4"
+>
+  <p
+    className="mb-0"
+  >
+    <small>
+      <strong
+        data-test="12elements"
+      >
+        For company:
+         
+      </strong>
+      no
+    </small>
+  </p>
+  <p
+    className="mb-0"
+  >
+    <small>
+      <strong
+        data-test="12elements"
+      >
+        For charity:
+         
+      </strong>
+      no
+    </small>
+  </p>
+  <p
+    className="mb-0"
+  >
+    <small>
+      <strong
+        data-test="12elements"
+      >
+        For individual:
+         
+      </strong>
+      no
+    </small>
+  </p>
+  <p
+    className="mb-0"
+  >
+    <small>
+      <strong
+        data-test="12elements"
+      >
+        For internal:
+         
+      </strong>
+      no
+    </small>
+  </p>
+  <p
+    className="mb-0"
+  >
+    <small>
+      <strong
+        data-test="12elements"
+      >
+        License is required:
+         
+      </strong>
+      no
+    </small>
+  </p>
+  <p
+    className="mb-0"
+  >
+    <small>
+      <strong
+        data-test="12elements"
+      >
+        <a
+          rel="noreferrer"
+          target="_blank"
+        >
+          API_URL
+        </a>
+         
+      </strong>
+    </small>
+  </p>
+</div>
+`;

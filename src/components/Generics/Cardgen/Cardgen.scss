@@ -1,0 +1,19 @@
+@import "../../../stylesheets/global.scss";
+
+.card {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 25px;
+  text-align: center;
+  height: 100%;
+  width: 260px;
+  word-wrap: break-word;
+
+  .sizeimg {
+    height: 100%;
+    width: 260px;
+    min-height: 195px;
+    max-height: 200px;
+    border-radius: 15px 15px 0 0;
+  }
+}

@@ -1,0 +1,256 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing App Should render without props 1`] = `
+Array [
+  <section
+    className="w-100"
+  >
+    <header>
+      <section
+        className="bgblack w-100 py-4 mb-5"
+      >
+        <section
+          className="imgheader"
+        />
+        <div
+          className="container"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-12 text-center text-white"
+            >
+              <h2
+                className="py-4 h1"
+              >
+                Join the Reuse Revolution for Free items!
+              </h2>
+              <a
+                className="botaoreg"
+                href="https://clavo.globechain.com/register"
+              >
+                <strong>
+                  Register
+                </strong>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </header>
+    <main>
+      <div
+        className="container"
+      >
+        <div
+          className="row"
+        >
+          <div
+            className="col-12 text-muted"
+          >
+            <h2
+              className="h1 pt-5"
+            >
+              Globechain the ESG data reuse solution making waste a resource for everyone
+            </h2>
+            <p
+              className="h3 my-4"
+            >
+              We are the leading ESG data reuse marketplace connecting enterprises with non profits, small businesses and people to redistribute unneeded items.
+            </p>
+            <p
+              className="h3 my-4"
+            >
+              We generate ESG data on your impact, help you reduce waste costs and achieve your sustainability and SDG targets.
+            </p>
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-12 text-muted"
+          >
+            <h2
+              className="h1 py-5 mb-0"
+            >
+              Generate Impact
+            </h2>
+            <div
+              className="col-12"
+            >
+              <section
+                className="w-100 blocopc"
+              >
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col-12 col-xl-8 col-lg-6 py-4 text-white"
+                  >
+                    <p
+                      className="h3 mb-4"
+                    >
+                      Our marketplace allows you to effortlessly manage and track your items, reduce costs, increase transparency and generate ESG data for your reporting.
+                    </p>
+                    <p
+                      className="h3 mb-4"
+                    >
+                      We offer external reuse via our marketplace, internal reuse and loaning asset inventory system.
+                    </p>
+                  </div>
+                  <div
+                    className="col-12 col-xl-4 col-lg-6"
+                  >
+                    <img
+                      alt="pc"
+                      className="img-fluid w-100"
+                      src="test-file-stub"
+                    />
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-12"
+          >
+            <h2
+              className="h1 mt-5 py-4 text-muted"
+            >
+              Get Reusing
+            </h2>
+            <section
+              className="pt-4 text-center w-100"
+            >
+              <img
+                alt="companies"
+                className="img-fluid"
+                src="test-file-stub"
+              />
+              <img
+                alt="companies"
+                className="img-fluid"
+                src="test-file-stub"
+              />
+              <img
+                alt="companies"
+                className="img-fluid"
+                src="test-file-stub"
+              />
+            </section>
+          </div>
+        </div>
+        <section>
+          <div
+            className="row"
+          >
+            <div
+              className="col-12"
+            >
+              <h2
+                className="h1 mt-5 py-4 text-muted"
+              >
+                Reduce Waste, Generate ESG Impact
+              </h2>
+            </div>
+          </div>
+          <div
+            className="row"
+          >
+            <div
+              className="col-lg-6 col-sm-12 col-md-12"
+            >
+              <section
+                className="sectionobrigatoria"
+              >
+                <a
+                  href="https://clavo.globechain.com/corporates"
+                >
+                  <section
+                    className="position-relative seccard secforest"
+                  >
+                    <section
+                      className="textobaixo"
+                    >
+                      <h3
+                        className="h2 pl-4 pr-4 text-white"
+                      >
+                        <strong>
+                          Discover the benefits of listing items
+                        </strong>
+                      </h3>
+                      <section
+                        className="text-right w-100"
+                      >
+                        <span
+                          className="mr-4 stylespan"
+                        >
+                          Learn more
+                        </span>
+                      </section>
+                    </section>
+                  </section>
+                </a>
+              </section>
+            </div>
+            <div
+              className="col-lg-6 col-sm-12 col-md-12"
+            >
+              <section
+                className="sectionobrigatoria"
+              >
+                <a
+                  href="https://clavo.globechain.com/charities"
+                >
+                  <section
+                    className="position-relative seccard seckid"
+                  >
+                    <section
+                      className="textobaixo"
+                    >
+                      <h3
+                        className="h2 pl-4 pr-4 text-white"
+                      >
+                        <strong>
+                          How taking items benefits everyone
+                        </strong>
+                      </h3>
+                      <section
+                        className="text-right w-100"
+                      >
+                        <span
+                          className="mr-4 stylespan"
+                        >
+                          Learn more
+                        </span>
+                      </section>
+                    </section>
+                  </section>
+                </a>
+              </section>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+  </section>,
+  <footer>
+    <section
+      className="py-5 bgblack"
+      id="footer"
+    >
+      <p
+        className="py-5 text-center text-white"
+      >
+        © 2022 Globechain. All Rights Reserved.
+      </p>
+    </section>
+  </footer>,
+]
+`;

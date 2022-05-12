@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing GenInput Should render with this 3 props 1`] = `
+<span>
+  <section
+    className="w-100 py-2"
+  >
+    <input
+      className=""
+      id="idfsd"
+      onChange={[Function]}
+      type="radio"
+    />
+  </section>
+</span>
+`;
+
+exports[`testing GenInput Should render with this 3 props 2`] = `
+<span>
+  <section
+    className="w-100 py-2"
+  >
+    <input
+      className=""
+      id="idfsd"
+      onChange={[Function]}
+      type="checkbox"
+    />
+  </section>
+</span>
+`;
+
+exports[`testing GenInput Should render with this 3 props 3`] = `
+<textarea
+  className="w-100"
+  id="idfsd"
+  onChange={[Function]}
+  value=""
+/>
+`;
+
+exports[`testing GenInput Should render with this 3 props 4`] = `
+<input
+  className="w-100"
+  id="idfsd"
+  onChange={[Function]}
+  type="file"
+/>
+`;
+
+exports[`testing GenInput Should render with this 3 props 5`] = `
+<span>
+  <p>
+    <label
+      className=""
+      data-test="idfssdafd"
+      htmlFor="idfssdafd"
+    >
+      ghfdhfdg
+    </label>
+  </p>
+  <input
+    className=""
+    id="idfssdafd"
+    onChange={[Function]}
+    type="sdafsdaf"
+    value=""
+  />
+</span>
+`;

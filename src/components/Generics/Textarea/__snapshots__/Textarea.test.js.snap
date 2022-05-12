@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should not render without props Should render with full props 1`] = `
+<textarea
+  className="w-100"
+  id="dsaf32rw"
+  onChange={[Function]}
+  placeholder="sdfsda"
+  value=""
+/>
+`;

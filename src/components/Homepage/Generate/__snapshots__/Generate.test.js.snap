@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Generate Should render without props 1`] = `
+<div
+  className="row"
+>
+  <div
+    className="col-12 text-muted"
+  >
+    <h2
+      className="h1 py-5 mb-0"
+    >
+      Generate Impact
+    </h2>
+    <div
+      className="col-12"
+    >
+      <section
+        className="w-100 blocopc"
+      >
+        <div
+          className="row"
+        >
+          <div
+            className="col-12 col-xl-8 col-lg-6 py-4 text-white"
+          >
+            <p
+              className="h3 mb-4"
+            >
+              Our marketplace allows you to effortlessly manage and track your items, reduce costs, increase transparency and generate ESG data for your reporting.
+            </p>
+            <p
+              className="h3 mb-4"
+            >
+              We offer external reuse via our marketplace, internal reuse and loaning asset inventory system.
+            </p>
+          </div>
+          <div
+            className="col-12 col-xl-4 col-lg-6"
+          >
+            <img
+              alt="pc"
+              className="img-fluid w-100"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+`;

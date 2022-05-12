@@ -1,0 +1,69 @@
+@import "../../stylesheets/global.scss";
+
+.sizing {
+  min-height: 65vh;
+
+  .sectionClass {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+  }
+
+  .boxClass {
+    border: 1px solid black;
+    border-radius: 8px 8px 0 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+  }
+
+  .dropClass {
+    border: 1px solid black;
+    border-radius: 0 0 8px 8px;
+    border-top: none;
+    overflow: hidden;
+    width: 100%;
+    cursor: pointer;
+    background-color: white;
+
+    .itemClass {
+      padding: 2px;
+      margin-bottom: 0;
+      width: 100%;
+      margin-left: 2px;
+      border-top: 1px solid black;
+      margin-right: 2px;
+      cursor: pointer;
+
+      &:hover {
+        background-color: aquamarine;
+      }
+
+      &:first-child {
+        border-top: none;
+      }
+    }
+  }
+
+  .active {
+    background-color: #007bff !important;
+    color: white !important;
+  }
+
+  .tableThing {
+    background-color: lightblue;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  .tableThingAfter {
+    background-color: gainsboro;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}

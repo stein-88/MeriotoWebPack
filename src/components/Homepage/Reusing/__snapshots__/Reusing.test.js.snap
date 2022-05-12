@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Reusing component Should render without props 1`] = `
+<div
+  className="row"
+>
+  <div
+    className="col-12"
+  >
+    <h2
+      className="h1 mt-5 py-4 text-muted"
+    >
+      Get Reusing
+    </h2>
+    <section
+      className="pt-4 text-center w-100"
+    >
+      <img
+        alt="companies"
+        className="img-fluid"
+        src="test-file-stub"
+      />
+      <img
+        alt="companies"
+        className="img-fluid"
+        src="test-file-stub"
+      />
+      <img
+        alt="companies"
+        className="img-fluid"
+        src="test-file-stub"
+      />
+    </section>
+  </div>
+</div>
+`;

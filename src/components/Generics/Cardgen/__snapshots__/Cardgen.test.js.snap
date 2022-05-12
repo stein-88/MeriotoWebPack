@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on CardGen Component Should render without props 1`] = `
+<section
+  className="w-100 my-3"
+>
+  <section
+    className="w-100 pb-3 card"
+  >
+    <section
+      className="w-100 pb-3"
+    >
+      <img
+        alt="can be anything"
+        aria-hidden="true"
+        className="img-fluid sizeimg"
+        onClick={[Function]}
+        src="test-file-stub"
+      />
+    </section>
+    <section
+      className="w-100"
+    />
+  </section>
+</section>
+`;

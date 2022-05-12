@@ -1,0 +1,12 @@
+@import "../../../stylesheets/global.scss";
+
+.sizing {
+  min-height: 80vh;
+
+  .vertiCenter {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}

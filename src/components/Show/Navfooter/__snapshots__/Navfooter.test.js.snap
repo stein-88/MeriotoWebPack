@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on Navfooter Component Sould have 1 container 1`] = `
+<div
+  className="container pt-4"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-12"
+    >
+      <span
+        aria-hidden="true"
+        className="btnstyle"
+        onClick={[Function]}
+      >
+        To top
+      </span>
+    </div>
+  </div>
+</div>
+`;

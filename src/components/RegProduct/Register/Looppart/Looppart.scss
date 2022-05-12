@@ -1,0 +1,43 @@
+@import "../../../../stylesheets/global.scss";
+
+.theinpstyle {
+  height: 100%;
+  width: 100%;
+  padding: 10px 15px;
+  border: 1px solid blue;
+  border-radius: 18px;
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 1.25rem;
+
+  &.someerro {
+    border: 2px solid red !important;
+  }
+}
+
+.textinp {
+  font-size: 1.75rem;
+  margin-bottom: 0;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.btnstyle {
+  border: 3px solid #0000ff52;
+  background-color: lighten($color: black, $amount: 40);
+  color: $globewhite;
+  padding: 4px 5px;
+  border-radius: 8px;
+  margin: 7px;
+
+  &.likeinp {
+    padding: 16px 50px;
+  }
+
+  &.rightto {
+    cursor: pointer;
+    background-color: #007bff !important;
+  }
+}

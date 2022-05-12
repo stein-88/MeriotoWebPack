@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on JustOne Component Sould render with no props and 1 row 1`] = `
+<div
+  className="row"
+>
+  <div
+    className="col-4"
+  >
+    <section
+      className="w-100"
+    >
+      <img
+        alt=""
+        className="reimg"
+        src="test-file-stub"
+      />
+    </section>
+  </div>
+  <div
+    className="col-4"
+  />
+  <div
+    className="col-4"
+  >
+    <p
+      className="mb-0"
+    >
+      <small>
+        <strong
+          data-test="12elements"
+        >
+          For company:
+           
+        </strong>
+        no
+      </small>
+    </p>
+    <p
+      className="mb-0"
+    >
+      <small>
+        <strong
+          data-test="12elements"
+        >
+          For charity:
+           
+        </strong>
+        no
+      </small>
+    </p>
+    <p
+      className="mb-0"
+    >
+      <small>
+        <strong
+          data-test="12elements"
+        >
+          For individual:
+           
+        </strong>
+        no
+      </small>
+    </p>
+    <p
+      className="mb-0"
+    >
+      <small>
+        <strong
+          data-test="12elements"
+        >
+          For internal:
+           
+        </strong>
+        no
+      </small>
+    </p>
+    <p
+      className="mb-0"
+    >
+      <small>
+        <strong
+          data-test="12elements"
+        >
+          License is required:
+           
+        </strong>
+        no
+      </small>
+    </p>
+    <p
+      className="mb-0"
+    >
+      <small>
+        <strong
+          data-test="12elements"
+        >
+          <a
+            rel="noreferrer"
+            target="_blank"
+          >
+            API_URL
+          </a>
+           
+        </strong>
+      </small>
+    </p>
+  </div>
+</div>
+`;

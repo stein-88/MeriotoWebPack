@@ -1,0 +1,36 @@
+@import "../../../stylesheets/global.scss";
+
+.bgblack {
+  background-color: black;
+  min-height: calc(100vh - 56px);
+
+  .imgheader {
+    min-height: 450px;
+    background-image: url("../../../statics/images/homehead1.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    max-width: 1380px;
+    margin: 0 auto;
+  }
+
+  .botaoreg {
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 20px;
+    width: 100%;
+    max-width: 280px;
+    color: #424141;
+    text-align: center;
+    outline: 0;
+    background-color: $coramarela;
+    border: 2px solid $coramarela;
+    border-radius: 15px;
+    font-size: 20px;
+
+    &:hover {
+      background-color: darken($color: $coramarela, $amount: 12);
+    }
+  }
+}

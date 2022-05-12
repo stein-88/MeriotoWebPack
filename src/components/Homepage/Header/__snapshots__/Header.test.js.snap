@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Header Should render without props 1`] = `
+<header>
+  <section
+    className="bgblack w-100 py-4 mb-5"
+  >
+    <section
+      className="imgheader"
+    />
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-12 text-center text-white"
+        >
+          <h2
+            className="py-4 h1"
+          >
+            Join the Reuse Revolution for Free items!
+          </h2>
+          <a
+            className="botaoreg"
+            href="https://clavo.globechain.com/register"
+          >
+            <strong>
+              Register
+            </strong>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</header>
+`;
